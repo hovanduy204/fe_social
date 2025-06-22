@@ -1,0 +1,151 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "explore": "Khám phá",
+    "messages": "Tin nhắn",
+    "notifications": "Thông báo",
+    "create": "Tạo mới",
+    "profile": "Hồ sơ",
+    "more": "Thêm",
+    "friends": "Thêm Bạn"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "darkMode": "Chế độ tối",
+    "changePassword": "Đổi mật khẩu",
+    "updatePassword": "Cập nhật mật khẩu tài khoản",
+    "currentPassword": "Mật khẩu hiện tại",
+    "newPassword": "Mật khẩu mới",
+    "confirmPassword": "Xác nhận mật khẩu mới",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "on": "Bật",
+    "off": "Tắt",
+    "logout": "Đăng xuất",
+    "logoutConfirm": {
+      "title": "Xác nhận đăng xuất",
+      "message": "Bạn có chắc chắn muốn đăng xuất?",
+      "cancel": "Hủy",
+      "confirm": "Đăng xuất"
+    }
+  },
+  "profile": {
+    "editProfile": "Chỉnh sửa hồ sơ",
+    "username": "Tên người dùng",
+    "bio": "Tiểu sử",
+    "website": "Trang web",
+    "posts": "bài viết",
+    "followers": "người theo dõi",
+    "following": "đang theo dõi",
+    "follow": "Theo dõi",
+    "unfollow": "Hủy theo dõi",
+    "message": "Nhắn tin",
+    "followersList": "Danh sách người theo dõi",
+    "followingList": "Danh sách đang theo dõi",
+    "tabs": {
+      "private": "Riêng tư",
+      "posts": "Bài viết",
+      "saved": "Đã lưu"
+    }
+  },
+  "post": {
+    "like": "Thích",
+    "comment": "Bình luận",
+    "share": "Chia sẻ",
+    "post": "Đăng",
+    "likes": "lượt thích",
+    "reply": "Trả lời",
+    "replies": "phản hồi",
+    "addComment": "Thêm bình luận...",
+    "days": "ngày",
+    "imageAlt": "Ảnh bài viết",
+    "add_comment": "Thêm bình luận...",
+    "settings": {
+      "title": "Cài đặt bài viết",
+      "postContent": "Nội dung bài viết:",
+      "noContent": "Không có nội dung",
+      "privacyOptions": "Tùy chọn quyền riêng tư",
+      "public": "Công khai",
+      "private": "Riêng tư",
+      "publicDesc": "Mọi người có thể xem bài viết này",
+      "privateDesc": "Chỉ bạn mới có thể xem bài viết này",
+      "allowComments": "Cho phép bình luận",
+      "disableComments": "Tắt bình luận",
+      "commentsDesc": "Mọi người có thể bình luận về bài viết này",
+      "noCommentsDesc": "Không ai có thể bình luận về bài viết này",
+      "cancel": "Hủy",
+      "saveSettings": "Lưu cài đặt"
+    },
+    "delete": {
+      "title": "Xác nhận xóa bài viết",
+      "confirm": "Bạn có chắc chắn muốn xóa bài viết này?",
+      "warning": "Hành động này không thể hoàn tác. Bài viết sẽ bị xóa vĩnh viễn.",
+      "cancel": "Hủy",
+      "delete": "Xóa bài viết",
+      "deleting": "Đang xóa...",
+      "success": "Xóa bài viết thành công!",
+      "error": "Có lỗi xảy ra khi xóa bài viết!"
+    }
+  },
+  "createPost": {
+    "title": "Tạo bài viết mới",
+    "captionPlaceholder": "Hãy viết gì đó về bài viết của bạn...",
+    "imagePreview": "Xem trước ảnh",
+    "cancel": "Hủy bỏ",
+    "post": "Chia sẻ",
+    "addImage": "Thêm ảnh",
+    "removeImage": "Xóa ảnh",
+    "dragHere": "Kéo ảnh vào đây",
+    "or": "hoặc",
+    "browse": "Chọn ảnh",
+    "maxImages": "Tối đa 10 ảnh",
+    "publicPost": "Mọi người có thể xem bài viết này",
+    "privatePost": "Chỉ một mình theo dõi mới xem được bài viết này",
+    "allowComments": "Cho phép bình luận",
+    "disableComments": "Tắt bình luận",
+    "successMessage": "Đăng bài viết thành công!",
+    "errorMessage": "Không thể đăng bài. Vui lòng thử lại."
+  },
+  "messages": {
+    "selectConversation": "Chọn một cuộc trò chuyện để hiển thị tin nhắn",
+    "inputPlaceholder": "Nhập tin nhắn...",
+    "send": "Gửi",
+    "call": "Gọi điện",
+    "videoCall": "Gọi video",
+    "connecting": "Đang kết nối...",
+    "newMessage": "Tin nhắn mới",
+    "searchConversations": "Tìm kiếm cuộc trò chuyện...",
+    "noResults": "Không tìm thấy cuộc trò chuyện nào",
+    "defaultMessages": {
+      "greeting": "Xin chào!",
+      "howAreYou": "Bạn khỏe không?",
+      "imFine": "Tớ khỏe, cảm ơn!"
+    },
+    "newChat": {
+      "startConversation": "Bắt đầu cuộc trò chuyện",
+      "sendFirstMessage": "Gửi tin nhắn để bắt đầu trò chuyện với người này."
+    },
+    "emptyState": {
+      "title": "Chưa có cuộc trò chuyện nào",
+      "description": "Bắt đầu trò chuyện với bạn bè của bạn",
+      "startChat": "Bắt đầu trò chuyện"
+    },
+    "errors": {
+      "fetchError": "Không thể tải danh sách trò chuyện",
+      "sendError": "Không thể gửi tin nhắn",
+      "connectionError": "Lỗi kết nối"
+    },
+    "status": {
+      "online": "Đang hoạt động",
+      "offline": "Ngoại tuyến",
+      "typing": "Đang soạn tin nhắn..."
+    },
+    "user": {
+      "you": "Bạn"
+    }
+  },
+  "comment": {
+    "endOfReplies": "Ẩn bình luận"
+  }
+}
